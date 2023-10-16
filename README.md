@@ -63,7 +63,7 @@ Create branch
 - Create a new pull request from your forked repo at GitHub. (Click on the green "Compare & pull request" button that is near the top of the page.)
 - Wait for your PR review and merge approval. I will review it as soon as possible. Thank you for your time and effort in improving this project!
 
-- Have a doubt about how to contribute refer [contribution guide](https://github.com/HrutvikKhatkar/ArtCircle_website_hacktoberfest/blob/main/contributing.md)
+- Have a doubt about how to contribute refer [contribution guide](https://github.com/HrutvikKhatkar/Art_circle-PCCOE/blob/main/contributing.md)
 
 
 
