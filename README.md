@@ -3,7 +3,8 @@ I am excited to welcome contributions from anyone interested in participating in
 
 ## Project Description
 
-This project is a purely front-end project.These static webpage created using HTML and CSS.
+This project is a purely front-end project i.e. static webpage created using HTML and CSS.
+It's only to share that what type of events are there in art circle of PCCOE College.
 
 Take a look at the :  https://pccoeartcircle.ccbp.tech/
 
