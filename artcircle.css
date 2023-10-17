@@ -57,7 +57,17 @@
     margin: 20px;
 }
 
+/* More Details Button style */
 
+    .text-center button{
+        transition: .4s ease;
+    }
+    .text-center button:hover{
+        background-color: #5e8ae2 !important;
+        transform: scale(1.03);
+    }
+
+/* More Details Button style end */
 
 
 .big-container {
