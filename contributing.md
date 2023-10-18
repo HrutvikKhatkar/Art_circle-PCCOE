@@ -52,7 +52,7 @@ git push origin my-new-branch
 # To Avoid Conflicts {Syncing your fork}
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.
 ```bash 
-git remote add upstream https://github.com/HrutvikKhatkar/Restaurant_website_HacktoberFest.git
+git remote add upstream https://github.com/HrutvikKhatkar/Art_circle-PCCOE_Hacktoberfest.git
 ```
 You can verify that the new remote has been added by typing
 ```bash
