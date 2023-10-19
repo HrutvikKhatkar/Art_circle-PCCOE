@@ -7,7 +7,7 @@ I am excited to welcome contributions from anyone interested in participating in
 This project is a purely front-end project i.e. static webpage created using HTML and CSS.
 It's only to display that what type of events are there in art circle of PCCOE College along with it's objective and all.
 
-Take a look at the :  https://pccoeartcircle.ccbp.tech/
+Take a look at the :  https://hrutvikkhatkar.github.io/Art_circle-PCCOE_Hacktoberfest/
 
 ## ArtCircle Website, a HacktoberFest Project for Beginners 🕶️
 Whether you are a coder 👨🏾‍💻 or non-coder 👩‍🎨, newbie 👶 or more experienced 👴, your contribution is welcome!
