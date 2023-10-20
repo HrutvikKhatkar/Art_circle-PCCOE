@@ -7,9 +7,8 @@ I am excited to welcome contributions from anyone interested in participating in
 This project is a purely front-end project i.e. static webpage created using HTML and CSS.
 It's only to display that what type of events are there in art circle of PCCOE College along with it's objective and all.
 
-Take a look at the :  https://hrutvikkhatkar.github.io/Art_circle-PCCOE_Hacktoberfest/
+Take a look at the : 
 
-## ArtCircle Website, a HacktoberFest Project for Beginners 🕶️
 Whether you are a coder 👨🏾‍💻 or non-coder 👩‍🎨, newbie 👶 or more experienced 👴, your contribution is welcome!
 
 Let's build a website and join the revolution! 
@@ -22,7 +21,7 @@ Let's build a website and join the revolution!
 - 🕸🧑‍💻 If you have some code you want to contribute, either directly submit a pull request or create an issue first, so then we can discuss it and/or I can assign the issue to you.
 
 # Thanks in advance for your help! 😎 
-![HacktoberFest-img](https://imgs.search.brave.com/vBEPaEUeN06tzvPdpGjoCeabCuZdaf4eMq7VftbKttE/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9kb2lt/YWdlcy5ueWMzLmNk/bi5kaWdpdGFsb2Nl/YW5zcGFjZXMuY29t/LzAwMkJsb2cvMTEw/MHg2NDAlMjBIYWNr/dG9iZXIlMjBmZXN0/JTIwaGVhZGVyLnBu/Zw)
+![HacktoberFest-img]
 
 # Hacktoberfest Summary
 Hacktoberfest is an event on GitHub or GitLab that encourages everyone to participate in open-source software development. To complete the challenge, you need to make four or more pull requests during the month of October. Successful pull requests earn you digital badges and provide an opportunity to learn more about git, GitHub or GitLab, and in this project's case, web development, JavaScript, HTML, and CSS.
