@@ -18,7 +18,7 @@
 - Clone on your local machine
 
 ```bash
-  git clone https://github.com/your_username/Art_circle-PCCOE.git
+  git clone https://github.com/your-username/Art_circle-PCCOE_Hacktoberfest.git
 ```
 - Navigate to project directory.
 ```bash
