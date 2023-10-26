@@ -49,15 +49,43 @@
     list-style-type: circle;
 }
 
-.list-item {
-    padding: 7px;
+.btn{
+    position: relative;
+    padding: 20px 60px;
+    background-color: rgba(58, 62, 175, 0.333);
+    justify-content: center;
+    align-items: center;
+    transition: 1s;
+    overflow: hidden;
+    margin: 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
 }
 
-.button {
-    margin: 20px;
+.btn:hover{
+    background: #b43bed;
+    box-shadow: 0 0 10px #4c23c9,
+    0 0 30px #4c23c9,
+    0 0 60px #4c23c9,
+    0 0 100px #4c23c9;
+
 }
 
 
+
+
+/* .carousel-control-prev{
+    display: none;
+}
+
+.carousel-indicators{
+    display: none;
+}
+
+.carousel-control-next{
+    display: none;
+} */
 
 
 .big-container {
