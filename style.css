@@ -12,7 +12,10 @@
     text-align: center;
     padding: 10px;
 }
-
+.art-logo img{
+    width: 20%;
+    height: 20%;
+}
 .image {
     height: 200px;
     width: 230px;
@@ -30,7 +33,7 @@
 
 .bottom-container {
     margin-top: 15px;
-    margin-left: 10px;
+    padding: 20px;
 }
 
 .sub-heading {
