@@ -87,33 +87,36 @@
     display: none;
 } */
 
-
 .big-container {
     background-color: white;
     background-size: cover;
-    height: 100%;
-    width: 100%;
     margin: 50px;
-    padding: 10px;
-
+    padding: 12px;
 }
 
 .card-container {
     background-color: white;
-    padding: 10px;
-    margin: 18px;
+    padding: 20px;
+    margin: 10px;
     border-radius: 10px;
-    height: 440px;
-    width: 250px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: gray;
+    height: auto;
+    width: calc(25% - 20px);
+    border: 1px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
 
 .image {
     height: 200px;
-    width: 200px;
+    max-width: 100%;
     margin: 10px;
+}
+
+.card-content {
+    padding: 15px;
+    text-align: center;
 }
 
 .card-heading {
@@ -121,8 +124,6 @@
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 700;
-    text-align: center;
-
 }
 
 .card-description {
@@ -130,6 +131,4 @@
     font-family: "normal";
     font-size: 15px;
     font-weight: 700;
-    height: 90px;
-    width: 240px;
 }
