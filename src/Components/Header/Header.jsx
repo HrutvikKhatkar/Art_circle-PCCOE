@@ -19,7 +19,7 @@ function Header() {
       <ul className='menu'>
         <li><Link to="/">HOME</Link></li>
         <li><Link to="/about">ABOUT US</Link></li>
-        <li><a href="#">Projects</a></li>
+        <li><a href="/activities">ACTIVITIES</a></li>
       </ul>
      </div>
     </div>
