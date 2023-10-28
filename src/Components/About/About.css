@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    
+}
+
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+    
+    text-shadow:8px 13px 18px rgba(0,0,0,0.6);
+    width: 100vw;
+    /* height: 100vh; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../../assest/hero-bg.jpg');
+    background-position: center;
+}
+
+.about{
+    width: 70vw;
+    margin: 20px auto;
+}
+
+.about .heading{
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.intro{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.intro .intro-text{
+    width: 80%;
+    text-align: left;
+    padding: 5px;
+    font-weight: 350;
+    padding: 20px;
+    
+    border-radius: 20px;
+    box-shadow: 0px -2px 19px -11px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px -2px 19px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -2px 19px -11px rgba(0,0,0,0.75);
+}
+.intro .logo{
+    padding: 20px;
+    
+    width: 120px;
+    height: 120px;
+    background-image: url('../../pccoe_art_circlelogo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+    box-shadow: -1px 1px 31px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: -1px 1px 31px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -1px 1px 31px 0px rgba(0,0,0,0.75);
+  
+}
+
+
+.club{
+    
+    border-radius: 28px;
+    background: #ffffff;
+    box-shadow:  10px 10px 25px #ededed,
+                 -10px -10px 25px #ffffff;
+
+
+    display: flex;
+    justify-content: space-evenly;
+   margin: 15px 0;
+   padding: 15px 0;
+    text-align: left;
+}
+.club:hover{
+    border-radius: 28px;
+    background: #ffffff;
+    box-shadow: inset 10px 10px 25px #ededed,
+                inset -10px -10px 25px #ffffff;
+
+        transition: ease-in-out 0.5s;
+
+}
+.club .img{
+   width:  200px !important;
+   height: 200px !important;
+}
+.club .summary{
+   width:  60%;
+   height: 200px;
+}
+
+.club .top{
+    margin: 10px 0;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.club .bottom{
+    text-align: left;
+}

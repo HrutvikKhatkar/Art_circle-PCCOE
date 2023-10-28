@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+}
+
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    font-weight: 700;
+    color: white;
+    text-shadow:8px 13px 18px rgba(0,0,0,0.6);
+    width: 100vw;
+    height: 60vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../../assest/hero-bg.jpg');
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: 700;
+    margin: 10px;
+}
+.gallery {
+    width: 80%;
+    margin:10px auto;
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-gap: 20px;
+    
+    justify-content:center;
+    align-items: center; 
+  }
+
+  .gallery img{
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+  }
+
+  .gallery img:hover {
+	-webkit-transform: scale(1.05);
+	transform: scale(1.05);
+    border-radius: 10px;
+}

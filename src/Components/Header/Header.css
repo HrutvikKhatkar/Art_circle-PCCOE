@@ -1,0 +1,53 @@
+.navbar{
+    padding: 20px;
+    height: 80px;
+    width: 100vw;
+    display: flex;
+    border-bottom: 1px;
+    justify-content: space-between;
+    
+    background-color: white;
+    /* border: 1px solid black; */
+    border-radius: 0px 0px 15px 15px;
+    box-shadow: 1px 3px 18px 0px rgba(124,100,100,1);
+-webkit-box-shadow: 1px 3px 18px 0px rgba(124,118,118,1);
+-moz-box-shadow: 1px 3px 18px 0px rgba(124,118,118,1);
+}
+
+
+.navbar p{
+    text-decoration: dashed;
+}
+
+
+.navbar .left-panel{
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.navbar .left-panel .logo{
+   margin: 10px;
+    height: 65px;
+    width: 65px;
+    border-radius: 50%;
+    background-image: url('../../pccoe_art_circlelogo.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.navbar .right-panel{
+    display: flex;
+    align-items: center;
+}
+
+.navbar .right-panel .menu{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+    
+}
+.navbar .right-panel .menu li{
+    margin-right: 30px;
+    font-weight: 600;
+}
