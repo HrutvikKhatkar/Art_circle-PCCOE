@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
 
+body{
+    overflow-x: hidden;
+}
 .bg-container {
     margin: 10px;
-    background-color: white;
+    /* background-color: white; */
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -11,17 +14,39 @@
 .art-logo {
     text-align: center;
     padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .art-logo img{
-    width: 20%;
-    height: 20%;
+    width: 10%;
+    height: 10%;
+    margin-right: 30px;
+    box-shadow: 0 0 15px 0px blue;
+    border-radius: 50%;
+}
+.art-circle-heading{
+    text-decoration: none!important;
+    color: rgb(41, 37, 163)!important;
 }
 .image {
     height: 200px;
     width: 230px;
     margin: 20px;
 }
-
+.bottom-container h1{
+    font-size: 35px!important;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color:#446ab8;
+}
+#sectionHome, html, #sectionFavouritePlaces, .big-container{
+    background:rgb(223, 214, 214) !important;
+}
+.obj-para{
+    font-size: 125%  !important;
+}
 .art-circle-heading {
     color: #446ab8;
     font-family: "Bree Serif";
@@ -40,6 +65,7 @@
     color: #525459;
     font-family: "Roboto";
     font-size: 18px;
+    font-weight: bold;
 }
 
 .obj-para {
@@ -48,6 +74,12 @@
     font-size: 15px;
 }
 
+.carousel-inner{
+    border-radius: 10px;
+    width: 98.5%;
+    align-self: center;
+    box-shadow: 0 5px 10px 0 black;
+}
 .list-style-type {
     list-style-type: circle;
 }
@@ -98,9 +130,19 @@
     width: 100%;
     margin: 50px;
     padding: 10px;
-
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
 }
-
+.big-container .d-flex{
+    justify-content: center;
+}
+.btn{
+    width: 300px;
+    align-self: center;
+    background: maroon;
+    color: white;
+}
 .card-container {
     background-color: white;
     padding: 10px;
@@ -111,6 +153,7 @@
     border-width: 1px;
     border-style: solid;
     border-color: gray;
+    box-shadow: 3px 8px 15px 0 maroon;
 }
 
 .image {
