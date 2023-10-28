@@ -1,24 +1,24 @@
 # PCCOE-ACM-HACKTOBERFEST-2023
 ## ArtCircle_website_hacktoberfest
-I am excited to welcome contributions from anyone interested in participating in Hacktoberfest 2023.
+We are excited to welcome contributions from anyone interested in participating in Hacktoberfest 2023.
 
 ## Project Description
 
-This project is a purely front-end project i.e. static webpage created using HTML and CSS.
-It's only to display that what type of events are there in art circle of PCCOE College along with it's objective and all.
+This project is a purely front-end project i.e. static web-page created using HTML and CSS.
+It's only to display that what type of events are there in art circle of PCCOE College along with it's objectives.
 
 Take a look at the : 
 
 Whether you are a coder 👨🏾‍💻 or non-coder 👩‍🎨, newbie 👶 or more experienced 👴, your contribution is welcome!
 
 Let's build a website and join the revolution! 
-- 💡 If you have any ideas (feature requests)about what cool things could go on the website, please create an issue to describe it.
+- 💡 If you have any ideas(feature requests) about what cool things could go on the website, please create an issue to describe it.
   - Adding a CSS animation.
   - and more...
 
 - 📢 If you have some additional thoughts on any of the issues, go ahead and 🖊 share your comment on the issue page.
 
-- 🕸🧑‍💻 If you have some code you want to contribute, either directly submit a pull request or create an issue first, so then we can discuss it and/or I can assign the issue to you.
+- 🕸🧑‍💻 If you have some code you want to contribute, either directly submit a pull request or create an issue first, so then we can discuss it and/or we can assign the issue to you.
 
 # Thanks in advance for your help! 😎 
 ![HacktoberFest-img]
