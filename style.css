@@ -15,10 +15,11 @@
 
 .art-logo {
 	text-align: center;
+	display: flex;
 }
 .art-logo img {
-	width: 10%;
-	height: 10%;
+	width: 80px;
+    height: 80px;
 }
 .image {
 	height: 200px;
@@ -29,11 +30,37 @@
 .art-circle-heading {
 	color: #446ab8;
 	font-family: "Bree Serif";
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: bold;
 	text-align: center;
 	text-transform: uppercase;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	/* justify-content: space-evenly; */
+	margin-left: 50px;
 }
+
+.navbar ul {
+	list-style: none;
+	
+	display: flex;
+	align-items: center;
+	text-align: center;
+	/* justify-content: space-evenly; */
+}
+.navbar li {
+	font-size: 1.3rem;
+	font-weight: 600;
+	margin: 20px;
+	text-decoration: none;
+}
+.navbar li a {
+	/* margin: 20px; */
+	text-decoration: none;
+}
+
+
 
 .bottom-container {
 	margin-top: 15px;
@@ -41,9 +68,14 @@
 }
 
 .sub-heading {
+	display: block;
 	color: #525459;
 	font-family: "Roboto";
 	font-size: 18px;
+	font-size: 2.5rem;
+	text-align: center;
+	margin: 5px;
+	font-weight: 800;
 }
 
 .obj-para {
@@ -71,9 +103,10 @@
 }
 
 .btn:hover {
-	background: #b43bed;
-	box-shadow: 0 0 10px #4c23c9, 0 0 30px #4c23c9, 0 0 60px #4c23c9,
-		0 0 100px #4c23c9;
+	color: white;
+	background: #446ab8;
+	/* box-shadow: 0 0 10px #4c23c9, 0 0 30px #4c23c9, 0 0 60px #4c23c9, */
+		/* 0 0 100px #4c23c9; */
 }
 
 /* .carousel-control-prev{
