@@ -5,12 +5,15 @@
     display: flex;
     border-bottom: 1px;
     justify-content: space-between;
+    
+    background-color: white;
     /* border: 1px solid black; */
     border-radius: 0px 0px 15px 15px;
     box-shadow: 1px 3px 18px 0px rgba(124,100,100,1);
 -webkit-box-shadow: 1px 3px 18px 0px rgba(124,118,118,1);
 -moz-box-shadow: 1px 3px 18px 0px rgba(124,118,118,1);
 }
+
 
 .navbar p{
     text-decoration: dashed;

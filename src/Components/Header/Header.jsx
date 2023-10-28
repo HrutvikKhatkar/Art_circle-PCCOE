@@ -1,10 +1,10 @@
 import React from 'react'
 import './Header.css';
-
+import { Link } from "react-router-dom";
 
 function Header() {
   return (
-    <div className='navbar'>
+    <div id='nav' className='navbar'>
      <div className="left-panel">
 
       <div className="logo">
@@ -17,8 +17,8 @@ function Header() {
      </div>
      <div className="right-panel">
       <ul className='menu'>
-        <li><a href="#">Home</a></li>
-        <li><a href="#">About Us</a></li>
+        <li><Link to="/">HOME</Link></li>
+        <li><Link to="/about">ABOUT US</Link></li>
         <li><a href="#">Projects</a></li>
       </ul>
      </div>

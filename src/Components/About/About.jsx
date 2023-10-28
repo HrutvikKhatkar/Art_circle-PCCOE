@@ -2,7 +2,7 @@ import React from 'react'
 import './About.css'
 
 
-function Home() {
+function About() {
   return (
     <>
       <div className='home'>
@@ -184,4 +184,4 @@ function Home() {
   )
 }
 
-export default Home
+export default About
