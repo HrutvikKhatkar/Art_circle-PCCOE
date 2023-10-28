@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# PCCOE-ACM-HACKTOBERFEST-2023
+## ArtCircle_website_hacktoberfest
+We are excited to welcome contributions from anyone interested in participating in Hacktoberfest 2023.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Project Description
 
-## Available Scripts
+This project is a purely front-end project i.e. static web-page created using HTML and CSS.
+It's only to display that what type of events are there in art circle of PCCOE College along with it's objectives.
 
-In the project directory, you can run:
+Take a look at the : 
 
-### `npm start`
+Whether you are a coder 👨🏾‍💻 or non-coder 👩‍🎨, newbie 👶 or more experienced 👴, your contribution is welcome!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Let's build a website and join the revolution! 
+- 💡 If you have any ideas(feature requests) about what cool things could go on the website, please create an issue to describe it.
+  - Adding a CSS animation.
+  - and more...
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 📢 If you have some additional thoughts on any of the issues, go ahead and 🖊 share your comment on the issue page.
 
-### `npm test`
+- 🕸🧑‍💻 If you have some code you want to contribute, either directly submit a pull request or create an issue first, so then we can discuss it and/or we can assign the issue to you.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Thanks in advance for your help! 😎 
+![HacktoberFest-img]
 
-### `npm run build`
+# Hacktoberfest Summary
+Hacktoberfest is an event on GitHub or GitLab that encourages everyone to participate in open-source software development. To complete the challenge, you need to make four or more pull requests during the month of October. Successful pull requests earn you digital badges and provide an opportunity to learn more about git, GitHub or GitLab, and in this project's case, web development, JavaScript, HTML, and CSS.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Visit [hacktoberfest.com](https://hacktoberfest.com/) <sup>[↗](https://github.com)</sup> for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Getting Started
+- Fork this repository(Click the Fork button in the top right of this page, click your profile image)
+- Clone your fork down to your local machine
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone the project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+  git clone  https://github.com/your-username/Art_circle-PCCOE_Hacktoberfest.git
+```
 
-### Code Splitting
+Create branch
+```
+  git checkout -b "<your branch name>"
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Make your changes
 
-### Analyzing the Bundle Size
+- Commit and Push
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```
+    git add .
+    git commit -m 'commit message'
+    git push origin <your branch name>
+```
+- Create a new pull request from your forked repo at GitHub. (Click on the green "Compare & pull request" button that is near the top of the page.)
+- Wait for your PR review and merge approval. We will review it as soon as possible. Thank you for your time and effort in improving this project!
 
-### Making a Progressive Web App
+- Have a doubt about how to contribute refer [contribution guide] 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
